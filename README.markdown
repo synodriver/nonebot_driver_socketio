@@ -1,0 +1,1 @@
+# socket.io driver for nonebot2
